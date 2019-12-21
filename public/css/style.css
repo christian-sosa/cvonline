@@ -410,9 +410,10 @@ ol {
 }
 
 .hero-image {
-	padding-top: 20px;
-	width: 550px;
-	padding-left: 170px;
+width: 375px;
+padding: 25px;
+border-radius: 50%;
+
 }
 
 .hero-info h2 {

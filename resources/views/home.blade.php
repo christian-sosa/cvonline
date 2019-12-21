@@ -69,7 +69,7 @@
 								<ul>
 									<li><span>Fecha de nacimiento</span>   12/07/1995</li>
 									<li><span>Direccion</span>   Lamadrid 5134, Lomas de zamora</li>
-									<li><span>E-mail</span>   sosa.christian.agustin@gmail.com</li>
+									<li><span>Email</span>   sosa.christian.agustin@gmail.com</li>
 									<li><span>Telefono </span>   1530115309</li>
 								</ul>
 							</div>
